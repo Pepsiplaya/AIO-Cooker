@@ -47,7 +47,7 @@ public class GUI {
 
 			frame = new JFrame();
 			frame.setResizable(false);
-			frame.setTitle("AIO Mining");
+			frame.setTitle("AIO Cooker");
 			frame.setBounds(100, 100, 220, 210);
 			contentPane = new JPanel();
 			contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
